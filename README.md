@@ -223,7 +223,7 @@
 
 ## Ссылка на репозиторий с исходными данными и кодом
 
-**GitHub**: https://github.com/OldVaric1/total
+**GitHub**: https://github.com/OldVaric1/Superstore-Sales-Analysis
 
 ---
 
